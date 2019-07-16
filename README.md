@@ -20,3 +20,6 @@ Inspects the news item headlines and decides whether they are overall positive o
 Every 10 seconds, the news analyser should output to the console:
 the count of positive news items seen during the last 10 seconds
 the unique headlines of up to three of the highest-priority positive news items seen during the last 10 seconds
+
+# How to Run the application 
+
