@@ -24,9 +24,9 @@ the unique headlines of up to three of the highest-priority positive news items 
 # How to Build the application 
 1.Go to application path and run mvn install.
 The above command will create 2 separate jar file in the target folder . 
-1.NewsFeeder.jar
-2.NewsReceiver.jar
+1. NewsFeeder.jar
+2. NewsReceiver.jar
 
 # How to Run the application 
-  1.Run  NewsReceiver.jar using java -jar NewsReceiver.jar
-  2.Run NewsFeeder.jar Using java -jar NewsFeeder.jar
+  1. Run  NewsReceiver.jar using java -jar NewsReceiver.jar
+  2. Run NewsFeeder.jar Using java -jar NewsFeeder.jar
